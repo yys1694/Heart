@@ -1,4 +1,4 @@
 Heart
 =====
 
-Window Basic Game, Heart!
+Window Basic Game, Heart! \n
