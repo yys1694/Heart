@@ -1,7 +1,10 @@
 Heart
 =====
 
-Window Basic Game, Heart! <br>
-Command-Line Interface implemented with C++ <br>
-Play with different level of computers or play with other players <br>
+<h3> About This Game </h3>
+<ul>
+<li> Command-Line Interface Game </li>
+<li> Implemented with C++ </li>
+<li> Rules are the same as Windows Card Game <a href=http://en.wikipedia.org/wiki/Hearts>Hearts</a></li>
+</ul>
 
