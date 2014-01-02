@@ -5,6 +5,7 @@ Heart
 <ul>
 <li> Command-Line Interface Game </li>
 <li> Implemented with C++ </li>
+<li> Can play vs computers or vs other human players </li>
 <li> Rules are the same as Windows Card Game <a href=http://en.wikipedia.org/wiki/Hearts>Hearts</a></li>
 </ul>
 
